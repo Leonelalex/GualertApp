@@ -1,0 +1,10 @@
+export { default as Mapa } from "./Mapa";
+export { default as Detalle } from "./detalle";
+export { default as info } from "./info";
+export { default as Login } from "./login";
+export { default as Register } from "./register";
+export { default as VerAlberg2 } from "./verAlberg2";
+export { default as VerAlertas2 } from "./verAlertas2";
+export { default as AuthLoading } from "./AuthLoading";
+export { default as VerPoblados } from "./verPoblado";
+export { default as AboutUs } from "./aboutus";

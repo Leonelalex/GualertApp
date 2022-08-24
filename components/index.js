@@ -1,0 +1,7 @@
+export { default as Modal } from './modal'
+export { default as Input } from './input'
+export { default as Directions } from './directions'
+export { default as AlertaRegister } from './alertRegister'
+export { default as InscripcionAP } from './registerAP'
+export { default as Salir } from './logout'
+export { default as CustomDrawer } from './CustomDrawer'

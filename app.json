@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "gualert",
+    "slug": "gualert",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo5.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.cren17.gualert2",
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyA2a7iFzw1VZgVpD8UOnwcckaLL2cjIyHo"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "googleMapsApiKey": "AIzaSyA2a7iFzw1VZgVpD8UOnwcckaLL2cjIyHo"
+      }
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBIGozi7VedEVu3FKDp6AZbh11rCTSLSdU"
+        }
+      },
+      "package": "com.cren17.gualert"
+    }
+  }
+}
