@@ -72,7 +72,8 @@ const datos_Server = {
   Lugares: [],
   coordenadas: { latitude: 0, longitude: 0 },
   anioActual: "",
-  ipBackend: "http://localhost:3000",
+  //ipBackend: "http://localhost:3000",
+  ipBackend: "https://gualertservice-production.up.railway.app",
   depto: [
     { label: "Alta Verapaz", value: 0 },
     { label: "Baja Verapaz", value: 1 },
